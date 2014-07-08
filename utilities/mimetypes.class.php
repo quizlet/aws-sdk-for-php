@@ -190,6 +190,7 @@ class CFMimeTypes
 		'wbmp' => 'image/vnd.wap.wbmp',
 		'wbxml' => 'application/vnd.wap.wbxml',
 		'webm' => 'video/webm',
+		'webp' => 'image/webp',
 		'wml' => 'text/vnd.wap.wml',
 		'wmlc' => 'application/vnd.wap.wmlc',
 		'wmls' => 'text/vnd.wap.wmlscript',
